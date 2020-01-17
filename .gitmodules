@@ -14,3 +14,4 @@
 [submodule "implementations/c/third-party/infineon/optiga-trust-x"]
 	path = implementations/c/third-party/infineon/optiga-trust-x
 	url = https://github.com/Infineon/optiga-trust-x.git
+    ignore = dirty
