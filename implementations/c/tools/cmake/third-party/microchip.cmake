@@ -1,5 +1,5 @@
 set(VAULT_INC ${VAULT_INC} ${VAULT_EXTERNAL_SRC_DIR}/microchip/)
-set(VAULT_INC ${VAULT_INC} ${THIRD_PARTY_DIR}/microchip/)
+set(VAULT_INC ${VAULT_INC} ${THIRD_PARTY_DIR}/infineon/)
 set(VAULT_INC ${VAULT_INC} ${THIRD_PARTY_DIR}/microchip/cryptoauthlib/lib)
 set(VAULT_INC ${VAULT_INC} ${THIRD_PARTY_DIR}/microchip/cryptoauthlib/lib/hal)
 
