@@ -23,6 +23,7 @@
 #include <ockam/vault/tpm/infineon.h>
 
 #include <optiga/optiga_crypt.h>
+#include <optiga/pal/pal.h>
 #include <optiga/ifx_i2c/ifx_i2c_config.h>
 
 #include <test_vault.h>
